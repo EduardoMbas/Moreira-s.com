@@ -1,4 +1,4 @@
-# MeuSiteUni7
+# Moreira's.com
 
 Projeto Node.js usando o [Express 4](http://expressjs.com/).
 
@@ -7,7 +7,7 @@ Essa aplicação suporta a versão inicial do Heroku [Getting Started with Node 
 ## Running Locally
 
 ```
-$ git clone https://github.com/mbacefor/SIUNI7Site.git #
+$ git clone 
 $ npm install
 $ npm start
 ```
