@@ -191,6 +191,22 @@ header nav ul li a {
   background: url('../images/python.jpg') no-repeat top center;
   background-size: 5.5cm;
 }
+#Conteudo ul li.p-7 {
+  background: url('') no-repeat top center;
+  background-size: 3.2cm;
+}
+#Conteudo ul li.p-8 {
+  background: url('../images/risc.png') no-repeat top center;
+  background-size: 8.5cm;
+}
+#Conteudo ul li.p-9 {
+  background: url('../images/Redes.png') no-repeat top center;
+  background-size: 5.2cm;
+}
+#Conteudo ul li.p-10 {
+  background: url('../images/python.jpg') no-repeat top center;
+  background-size: 5.5cm;
+}
 
 #conteudo-principal {
   background-color: #f8fafa;
