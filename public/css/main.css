@@ -436,3 +436,8 @@ iframe{
   margin-right: auto;
   width: 65em;
 }
+
+footer{
+  background-color: #bdbdbd;
+  border-radius: 5px;
+}
