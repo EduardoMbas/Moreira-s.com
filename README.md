@@ -1,4 +1,4 @@
-# MeuSiteUni7
+# Moreira's.com
 
 Projeto Node.js usando o [Express 4](http://expressjs.com/).
 
